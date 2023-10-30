@@ -8,4 +8,4 @@
 5. Convert the merge layer to a raster.
 6. Using the raster calculator specify each condition for new raster values: 1,2,3,4.
 
-![final result](https://github.com/MartaSolarz/Maps_and_GISWEB/blob/main/result.jpg?raw=true)
+![final result](https://github.com/MartaSolarz/Maps_and_GISWEB/blob/main/fichaexercicios2/image.png)
